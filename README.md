@@ -1,2 +1,2 @@
 # GameServer
-This is a test project!
+This is an exercise program
